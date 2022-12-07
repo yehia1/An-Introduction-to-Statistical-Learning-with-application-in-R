@@ -2,5 +2,4 @@
 
 The book explains using modern statistics methods 
 
-[Link of book]
-(https://www.statlearning.com/)
+[Link of book](https://www.statlearning.com/)
